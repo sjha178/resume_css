@@ -65,16 +65,15 @@ h3{
   padding: 20px;
 }
 .bottommemory{
-  position: absolute;
-  bottom: 50px;
-  left: 200px;
+ position: absolute;
+  right: 70%;
 }
 
 
 .topmemory{
   position:relative;
-  top:30px;
-  left:130px;
+  top: 10%;
+  left: 30%;
 
 }
 .bottom_para{
